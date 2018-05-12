@@ -1,0 +1,68 @@
+
+// To check if a library is compiled with CocoaPods you
+// can use the `COCOAPODS` macro definition which is
+// defined in the xcconfigs so it is available in
+// headers also when they are imported in the client
+// project.
+
+
+// Firebase/Core
+#define COCOAPODS_POD_AVAILABLE_Firebase_Core
+#define COCOAPODS_VERSION_MAJOR_Firebase_Core 3
+#define COCOAPODS_VERSION_MINOR_Firebase_Core 8
+#define COCOAPODS_VERSION_PATCH_Firebase_Core 0
+
+// Firebase/Database
+#define COCOAPODS_POD_AVAILABLE_Firebase_Database
+#define COCOAPODS_VERSION_MAJOR_Firebase_Database 3
+#define COCOAPODS_VERSION_MINOR_Firebase_Database 8
+#define COCOAPODS_VERSION_PATCH_Firebase_Database 0
+
+// FirebaseAnalytics
+#define COCOAPODS_POD_AVAILABLE_FirebaseAnalytics
+#define COCOAPODS_VERSION_MAJOR_FirebaseAnalytics 3
+#define COCOAPODS_VERSION_MINOR_FirebaseAnalytics 5
+#define COCOAPODS_VERSION_PATCH_FirebaseAnalytics 1
+
+// FirebaseCore
+#define COCOAPODS_POD_AVAILABLE_FirebaseCore
+#define COCOAPODS_VERSION_MAJOR_FirebaseCore 3
+#define COCOAPODS_VERSION_MINOR_FirebaseCore 4
+#define COCOAPODS_VERSION_PATCH_FirebaseCore 4
+
+// FirebaseDatabase
+#define COCOAPODS_POD_AVAILABLE_FirebaseDatabase
+#define COCOAPODS_VERSION_MAJOR_FirebaseDatabase 3
+#define COCOAPODS_VERSION_MINOR_FirebaseDatabase 1
+#define COCOAPODS_VERSION_PATCH_FirebaseDatabase 0
+
+// FirebaseInstanceID
+#define COCOAPODS_POD_AVAILABLE_FirebaseInstanceID
+#define COCOAPODS_VERSION_MAJOR_FirebaseInstanceID 1
+#define COCOAPODS_VERSION_MINOR_FirebaseInstanceID 0
+#define COCOAPODS_VERSION_PATCH_FirebaseInstanceID 8
+
+// GoogleInterchangeUtilities
+#define COCOAPODS_POD_AVAILABLE_GoogleInterchangeUtilities
+#define COCOAPODS_VERSION_MAJOR_GoogleInterchangeUtilities 1
+#define COCOAPODS_VERSION_MINOR_GoogleInterchangeUtilities 2
+#define COCOAPODS_VERSION_PATCH_GoogleInterchangeUtilities 2
+
+// GoogleSymbolUtilities
+#define COCOAPODS_POD_AVAILABLE_GoogleSymbolUtilities
+#define COCOAPODS_VERSION_MAJOR_GoogleSymbolUtilities 1
+#define COCOAPODS_VERSION_MINOR_GoogleSymbolUtilities 1
+#define COCOAPODS_VERSION_PATCH_GoogleSymbolUtilities 2
+
+// GoogleToolboxForMac/Defines
+#define COCOAPODS_POD_AVAILABLE_GoogleToolboxForMac_Defines
+#define COCOAPODS_VERSION_MAJOR_GoogleToolboxForMac_Defines 2
+#define COCOAPODS_VERSION_MINOR_GoogleToolboxForMac_Defines 1
+#define COCOAPODS_VERSION_PATCH_GoogleToolboxForMac_Defines 0
+
+// GoogleToolboxForMac/NSData+zlib
+#define COCOAPODS_POD_AVAILABLE_GoogleToolboxForMac_NSData_zlib
+#define COCOAPODS_VERSION_MAJOR_GoogleToolboxForMac_NSData_zlib 2
+#define COCOAPODS_VERSION_MINOR_GoogleToolboxForMac_NSData_zlib 1
+#define COCOAPODS_VERSION_PATCH_GoogleToolboxForMac_NSData_zlib 0
+

@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SpeedySloth_WatchKit_Extension_GoogleToolboxForMac : NSObject
+@end
+@implementation PodsDummy_Pods_SpeedySloth_WatchKit_Extension_GoogleToolboxForMac
+@end

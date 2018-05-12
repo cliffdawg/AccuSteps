@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-GoogleToolboxForMac.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SpeedySloth WatchKit App-GoogleToolboxForMac.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SpeedySloth WatchKit App.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SpeedySloth WatchKit Extension-GoogleToolboxForMac.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SpeedySloth WatchKit Extension.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SpeedySloth-GoogleToolboxForMac.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SpeedySloth.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>100B965F51E54FB4B6CFA653</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1DBA6E1A3785D40CA30FDCE6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3899195E5CFD499707B2C8ED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4D7D2FC18D100B8D582192F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7ECF260591C76D2F615A0274</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8A10988312A96A4FAE0A732E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D57A903B5CBCECDFA429354E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FE72B34B6927BC68816D2F02</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>924524322791-bc4dli6o4m97upkld237jbl8tbur33tq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.924524322791-bc4dli6o4m97upkld237jbl8tbur33tq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCmil90P0gsQEODck6lU_Zie_M0r7TBwRg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>924524322791</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.testing.Accusteps.watchkit.extension</string>
+	<key>PROJECT_ID</key>
+	<string>steps-4a070</string>
+	<key>STORAGE_BUCKET</key>
+	<string>steps-4a070.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:924524322791:ios:e867e331c28aa6bc</string>
+	<key>DATABASE_URL</key>
+	<string>https://steps-4a070.firebaseio.com</string>
+</dict>
+</plist>
